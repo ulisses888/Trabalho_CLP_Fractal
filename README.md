@@ -1,4 +1,6 @@
 Trabalho da disciplina Conceitos de Linguagens de Programação
+Nome: Ulisses Gilioli Francescatto Junior
+Turma: T1
 
  Implementar uma aplicação gráfica com apoio de duas linguagens de programação, a escolha. O desafio consiste em realizar o uso conjunto de duas linguagens de programação, sendo o desafio especificamente, realizar o uso conjunto das linguagens. Uma das linguagens deve ser utilizado para oferecer uma interface com o usuário e apresentar a imagem gerada. A outra deve ser utilizada para implementar o serviço de cálculo desejado.
 
