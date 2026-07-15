@@ -1,1 +1,2 @@
-.libmandelbrot.so
+*.so
+mandelbrot
