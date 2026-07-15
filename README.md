@@ -17,11 +17,16 @@ Implementado um Fractal de Mandelbrot utilizando linguagem C  e Python
  documentacao.pdf - Documentação da implementação.
 
 Dependências:
-gcc
-Python 3
-Pacotes Python: pygame e numpy
+- gcc
+- Python 3
+- Pacotes Python: pygame e numpy
 
 As dependencias são instaladas no Makefile para compilar tudo é so colocar no terminal make e para rodar o programa make run, o programa foi testado somente no Linux não é garantido que vai funcionar da mesma forma no Windows.
 
--- make
--- make run
+Para compilar e executar no terminal coloque: (Ele ja executa no primeiro make, posteriormente só usar o make run para não precisar compilar novamente)
+- make
+- make run
+
+Controles:
+- Clique esquerdo: zoom in na região clicada
+- Clique direito: zoom out
