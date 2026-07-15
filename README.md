@@ -6,15 +6,11 @@ Implementado um Fractal de Mandelbrot utilizando linguagem C  e Python
 
  Arquivos do repositório
 
- mandelbrot.c - 1ª Parte do trabalho onde é realizado o calculo do Fractal de Mandelbrot escrito em C.
-
- interface.py - 2ª Parte do trabalho onde é criada a interface gráfica e importa o libmandelbrot.so (1ª parte compilada) via ctypes.
-
- Makefile - Automatiza a instalação de dependências, compilação da biblioteca e execução do programa.
-
- README.md - Este arquivo.
-
- documentacao.pdf - Documentação da implementação.
+ - mandelbrot.c - 1ª Parte do trabalho onde é realizado o calculo do Fractal de Mandelbrot escrito em C.
+ - interface.py - 2ª Parte do trabalho onde é criada a interface gráfica e importa o libmandelbrot.so (1ª parte compilada) via ctypes.
+ - Makefile - Automatiza a instalação de dependências, compilação da biblioteca e execução do programa.
+ - README.md - Este arquivo.
+ - documentacao.pdf - Documentação da implementação.
 
 Dependências:
 - gcc
