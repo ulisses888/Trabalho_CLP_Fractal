@@ -21,7 +21,7 @@ Dependências:
 - Python 3
 - Pacotes Python: pygame e numpy
 
-As dependencias são instaladas no Makefile para compilar tudo é so colocar no terminal make e para rodar o programa make run, o programa foi testado somente no Linux não é garantido que vai funcionar da mesma forma no Windows.
+Os pacotes python são instaladas no Makefile, para compilar tudo é so colocar no terminal make e para rodar o programa make run, o programa foi testado somente no Linux não é garantido que vai funcionar da mesma forma no Windows.
 
 Para compilar e executar no terminal coloque: (Ele ja executa no primeiro make, posteriormente só usar o make run para não precisar compilar novamente)
 - make
